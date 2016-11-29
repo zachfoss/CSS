@@ -466,8 +466,8 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 24th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/102343/"]:before{ /*To You, the Immortal*/
+content: "Weekly Chapter; Tuesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
