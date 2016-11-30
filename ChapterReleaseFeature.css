@@ -1,37 +1,37 @@
 .animetitle[href*="/25132/"]:before{ /*Akame ga Kill!*/
-content: "Monthly Chapter; 21st";
+content: "Monthly Chapter; 22nd";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/86337/"]:before{ /*Black Clover */
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/89734/"]:before{ /*Dragon Ball Super*/
-content: "Monthly Chapter; 20th";
+content: "Monthly Chapter; 21st";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/669/"]:before{ /*Highschool of the Dead*/
-content: "Monthly Chapter; 8th";
+content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/26/"]:before{ /*Hunter x Hunter*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/14790/"]:before{ /*Magi: The Labyrinth of Magic*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/36213/"]:before{ /*Monster Musume: Everyday Life With Monster Girls*/
-content: "Monthly Chapter; 18th";
+content: "Monthly Chapter; 19th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/44485/"]:before{ /*The Seven Deadly Sins*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/81681/"]:before{ /*Plunderer*/
-content: "Monthly Chapter; 25th";
+content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/873/"]:before{ /*Sekirei / Friday*/
@@ -39,7 +39,7 @@ content: "Semi-Monthly Chapter; 1st & 3rd Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/23390/"]:before{ /*Attack on Titan*/
-content: "Monthly Chapter; 8th";
+content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/21479/"]:before{ /*Sword Art Online*/
@@ -47,19 +47,19 @@ content: "Average 2-3 Vol. yearly release";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/33327/"]:before{ /*Tokyo Ghoul*/
-content: "Weekly Chapter; Wednesday";
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="/19007/"]:before{ /*B Type H Style*/
-content: "Weekly Chapter; Wednesday";
+.animetitle[href*="/19007/"]:before{ /*B Type H Style / B Gata H Kei*/
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/35573/"]:before{ /*Orange*/
-content: "Monthly Chapter; 24th";
+content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/8144/"]:before{ /*Heaven’s Lost Property*/
-content: "Monthly Chapter; 25th";
+content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/24/"]:before{ /*D.Gray-man*/
@@ -67,11 +67,11 @@ content: "Quarterly Chapter (Jan, Apr, Jul, Oct); 17th";
 font-size: 9.2px !important;
 }
 .animetitle[href*="/49865/"]:before{ /*Ajin: Demi-Human*/
-content: "Bi-monthly Chapter; 6th";
-font-size: 10.5px !important;
+content: "Bi-monthly Chapter; 7th";
+font-size: 10.5px !important;k
 }
 .animetitle[href*="/52267/"]:before{ /*Akuma no Riddle: riddle story of devil (JA: 10th) */
-content: "Monthly Chapter; 9th";
+content: "Monthly Chapter; 10th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/1101/"]:before{ /*Akumetsu*/
@@ -99,7 +99,7 @@ content: "Monthly Chapter; Around 15-30th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/2/"]:before{ /*Berserk (JA: Bi-weekly Chapter; 2nd & 4th Friday = OLD,)*/
-content: "Monthly Chapter; 4th Thursday";
+content: "Monthly Chapter; 4th Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/747/"]:before{ /*Blood+*/
@@ -111,7 +111,7 @@ content: "Monthly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/78943/"]:before{ /*Dead Tube*/
-content: "Monthly Chapter; 18th";
+content: "Monthly Chapter; 19th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/21/"]:before{ /*Death Note*/
@@ -159,7 +159,7 @@ content: "Monthly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/32097/"]:before{ /*Chaika: The Coffin Princess*/
-content: "Monthly Chapter";
+content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/15035/"]:before{ /*Isuca*/
@@ -167,7 +167,7 @@ content: "Monthly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/12336/"]:before{ /*Maria the Virgin Witch*/
-content: "Bi-monthly Chapter; 6th";
+content: "Bi-monthly Chapter; 7th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/24561/"]:before{ /*Kamisama no Iutoori*/
@@ -263,7 +263,7 @@ content: "Weekly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/14018/"]:before{ /*Triage X*/
-content: "Monthly Chapter; 8th";
+content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/24822/"]:before{ /*Trinity Seven: The Seven Magicians*/
@@ -279,23 +279,23 @@ content: "Bi-weekly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/91731/"]:before{ /*Smokin' Parade*/
-content: "Monthly Chapter; 25th";
+content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/91037/"]:before{ /*Fire Brigade of Flames*/
-content: "Weekly Chapter; Tuesday";
-font-size: 10.5px !important;
-}
-.animetitle[href*="/81117/"]:before{ /*Tokyo Ghoul:re*/
 content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
+.animetitle[href*="/81117/"]:before{ /*Tokyo Ghoul:re*/
+content: "Weekly Chapter; Thursday";
+font-size: 10.5px !important;
+}
 .animetitle[href*="/93180/"]:before{ /*Platinum End*/
-content: "Monthly Chapter; 3th";
+content: "Monthly Chapter; 4th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/75989/"]:before{ /*My Hero Academia*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/44347/"]:before{ /*One-Punch Man*/
@@ -307,11 +307,11 @@ content: "Vol. 3 English Release; April 19, 2016";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/25297/"]:before{ /*Prison School*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/671/"]:before{ /*To LOVE-Ru*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/68273/"]:before{ /*The Testament of Sister New Devil Arashi (Another Side Story)*/
@@ -319,15 +319,15 @@ content: "Monthly Chapter; 1st Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/39325/"]:before{ /*Erased*/
-content: "Monthly Chapter; 3rd";
+content: "Monthly Chapter; 4th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/94896/"]:before{ /*Infection*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/98270/"]:before{ /*Fire Punch*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/45275/"]:before{ /*Girls of the Wild's / Sat*/
@@ -335,7 +335,7 @@ content: "Weekly Chapter; Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/91656/"]:before{ /*Gun-Ota / When a Gun Nerd Is Reincarnated to a World of Magic, He Established a Harem army with Modern Weapons!?*/
-content: "Monthly Chapter; 8th";
+content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/89737/"]:before{ /*How to Build a Dungeon: Book of the Demon King*/
@@ -347,55 +347,55 @@ content: "Bi-monthly Chapter";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/96582/"]:before{ /*Yuuna of Yuragi Manor / Yuragisou no Yuuna-san*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/97071/"]:before{ /*Millennium War Aigis: Bonds of the Hero*/
-content: "Monthly Chapter; 26th";
+content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/98752/"]:before{ /*World's End Harem*/
-content: "Bi-weekly Chapter; Saturday";
+content: "Bi-weekly Chapter; Sunday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/22519/"]:before{ /*To Love Ru Darkness*/
-content: "Monthly Chapter; 3th";
+content: "Monthly Chapter; 4th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/49361/"]:before{ /*Dragons Rioting*/
-content: "Monthly Chapter; 8th";
+content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/12114/"]:before{ /*El El / Each Thursday*/
-content: "Weekly Chapter; Wednesday";
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/14582/"]:before{ /*Gamaran*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/45996/"]:before{ /*Hunter x Hunter: Kurapika Memories*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/92377/"]:before{ /*Akame ga Kill! Volume 1.5*/
 content: "Side Story Chapters; No Serialization";
 font-size: 10.5px !important;
 }
-.animetitle[href*="/16815/"]:before{ /*Itsuwaribito / Club Sunday*/
-content: "Weekly Chapter; Sunday";
+.animetitle[href*="/16815/"]:before{ /*Itsuwaribito / Club Sunday / Wednesday to weekly */
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/8483/"]:before{ /*A Town Where You Live (Kimi no Iru Machi)*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/763/"]:before{ /*Lilim Kiss*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/40175/"]:before{ /*Magical Girl Apocalypse / 12th of the month*/
-content: "Monthly Chapter; 11th";
+content: "Monthly Chapter; 12th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/13290/"]:before{ /*No Longer Human*/
@@ -411,7 +411,7 @@ content: "Bi-Monthly → Monthly Chapter; 15th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/15189/"]:before{ /*Seishun Pop! / Monday / Bi-Monthly → Monthly Chapter*/
-content: "Bi-Monthly → Monthly Chapter; 3rd Monday";
+content: "Bi-Monthly → Monthly Chapter; 3rd Tuesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/29931/"]:before{ /*Uwa-Koi / 16th*/
@@ -423,23 +423,23 @@ content: "Monthly Chapter; 29th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/656/"]:before{ /*Vagabond / Thursday /*/
-content: "Weekly Chapter; Wednesday";
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/48151/"]:before{ /*World Trigger*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/35003/"]:before{ /*Yamada-kun and the Seven Witches*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/67121/"]:before{ /*King's Game Origin*/
-content: "Monthly Chapter; 24th";
+content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/100128/"]:before{ /*The Promised Neverland*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/99982/"]:before{ /*Sahara the Flower Samurai // 20th*/
@@ -447,27 +447,27 @@ content: "Monthly Chapter; 19th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/100708/"]:before{ /*Love Rush*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/100876/"]:before{ /*Red Sprite*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/102652/"]:before{ /*Demon's Plan*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/96792/"]:before{ /*Kimetsu no Yaiba*/
-content: "Weekly Chapter; Sunday";
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/98720/"]:before{ /*Goblin Slayer / 25th*/
-content: "Monthly Chapter; 24th";
+content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/102343/"]:before{ /*To You, the Immortal*/
-content: "Weekly Chapter; Tuesday";
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/93753/"]:before{ /*The Case Study of Vanitas*/
@@ -475,7 +475,7 @@ content: "Monthly Chapter; 22nd";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/90125/"]:before{ /*Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains*/
-content: "Weekly Chapter; Wednesday";
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
