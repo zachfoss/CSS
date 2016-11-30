@@ -470,12 +470,12 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Tuesday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/93753/"]:before{ /*The Case Study of Vanitas*/
+content: "Monthly Chapter; 22nd";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/90125/"]:before{ /*Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains*/
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
