@@ -769,7 +769,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/22359/"]:before{ /*Ronia the Robber's Daughter*/
-content: "Subbed Only";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -834,7 +834,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/23233/"]:before{ /*The Testament of Sister New Devil*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub (TBA)";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1019,17 +1019,17 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/30782/"]:before{ /*Bikini Warriors*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 font-size: 10.5px !important;
 }
 .animetitle[href*="/28999/"]:before{ /*Charlotte*/
-content: "Subbed & English Dub (7 Ep.)";
+content: "Subbed & English Dub";
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 font-size: 10.5px !important;
 }
 .animetitle[href*="/30694/"]:before{ /*Dragon Ball Super*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1044,7 +1044,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/27631/"]:before{ /*God Eater*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1084,7 +1084,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28619/"]:before{ /*Rampo Kitan: Game of Laplace*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1204,7 +1204,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/25687/"]:before{ /*Digimon Adventure tri*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1509,7 +1509,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/5507/"]:before{ /*Valkyria Chronicles*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1539,7 +1539,7 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 font-size: 10.5px !important;
 }
 .animetitle[href*="/11577/"]:before{ /*Steins;Gate Movie*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1679,7 +1679,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/30544/"]:before{ /*The Asterisk War: The Academy City on the Water*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1834,7 +1834,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31553/"]:before{ /*Charlotte OVA*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1869,12 +1869,12 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31988/"]:before{ /*Sound! Euphonium 2nd Season*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31156/"]:before{ /*Sky Wizards Academy OVA*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2009,7 +2009,12 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31973/"]:before{ /*Mobile Suit Gundam Thunderbolt*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed Only";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33221/"]:before{ /*Mobile Suit Gundam Thunderbolt: December Sky*/
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2019,7 +2024,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31043/"]:before{ /*ERASED*/
-content: "Subbed & English Dub (6 Ep.)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2173,18 +2178,13 @@ content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="/33253/"]:before{ /*Ajin 2nd Season*/
-content: "Unavailable";
-font-size: 10.5px !important;
-color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
-}
 .animetitle[href*="/31821/"]:before{ /*The Heroic Legend of Arslan: Dust Storm Dance*/
 content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33506/"]:before{ /*Blue Exorcist: Kyoto Impure King Arc*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2334,7 +2334,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33489/"]:before{ /*Little Witch Academia (TV)*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2349,7 +2349,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31741/"]:before{ /*Magi: Adventure of Sinbad*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2364,7 +2364,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33253/"]:before{ /*Ajin 2nd Season*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2514,7 +2514,7 @@ font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32083/"]:before{ /*Luck & Logic*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
