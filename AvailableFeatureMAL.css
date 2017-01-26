@@ -2573,6 +2573,111 @@ content: "Subbed Only";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+.animetitle[href*="/32615/"]:before{ /*Saga of Tanya the Evil*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33206/"]:before{ /*Miss Kobayashi's Dragon Maid*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32981/"]:before{ /*Hand Shakers*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/30485/"]:before{ /*ChäoS;Child*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33337/"]:before{ /*ACCA: 13-Territory Inspection Dept.*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/28833/"]:before{ /*Chain Chronicle: The Light of Haecceitas*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32878/"]:before{ /*elDLIVE*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34086/"]:before{ /*Tales of Zestiria the X 2nd Season*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33988/"]:before{ /*Interviews With Monster Girls*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33743/"]:before{ /*Fuuka*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33487/"]:before{ /*Masamune-kun's Revenge*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34051/"]:before{ /*Akiba's Trip The Animation*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34389/"]:before{ /*Koro Sensei Quest!*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/23279/"]:before{ /*Genocidal Organ*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/31339/"]:before{ /*Drifters*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32995/"]:before{ /*Yuri!!! On ICE*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/30016/"]:before{ /*Nanbaka*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34414/"]:before{ /*Nanbaka: Season 2*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33729/"]:before{ /*Chain Chronicle: The Light of Haecceitas Part 2*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33730/"]:before{ /*Chain Chronicle: The Light of Haecceitas Part 3*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
 .animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 10.5px !important;
