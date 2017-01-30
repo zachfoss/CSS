@@ -490,12 +490,12 @@ font-size: 10.5px !important;
 content: "Weekly Chapter";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/101829/"]:before{ /*Amalgam of Distortion*/
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/57015/"]:before{ /*My Monster Secret: "Actually, I am..."*/
+content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
