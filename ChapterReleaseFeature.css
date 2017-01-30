@@ -498,8 +498,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Thursday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/14440/"]:before{ /*I Am a Hero*/
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
