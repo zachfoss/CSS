@@ -502,8 +502,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/430/"]:before{ /*Suzuka*/
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
