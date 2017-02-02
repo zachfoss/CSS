@@ -2678,8 +2678,38 @@ content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+.animetitle[href*="/33743/"]:before{ /*Fuuka*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32981/"]:before{ /*Hand Shakers*/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+
 .animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 10.5px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+
