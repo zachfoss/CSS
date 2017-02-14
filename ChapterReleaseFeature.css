@@ -510,12 +510,12 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/102782/"]:before{ /*Ole Golazo*/
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/103890/"]:before{ /*We Can't Study*/
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
