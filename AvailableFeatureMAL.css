@@ -2703,12 +2703,12 @@ content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/6007/"]:before{ /*Spice and Wolf II OVA */
 content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/5341/"]:before{ /*Spice and Wolf II*/
 content: "Subbed & English Dub";
 font-size: 10.5px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
