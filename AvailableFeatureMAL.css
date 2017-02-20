@@ -44,12 +44,12 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/22147/"]:before{ /*Amagi Brilliant Park*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/30206/"]:before{ /*Amagi Brilliant Park OVA*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
