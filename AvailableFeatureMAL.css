@@ -1878,11 +1878,6 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="/31722/"]:before{ /*The Seven Deadly Sins 2nd Season*/
-content: "Unavailable";
-font-size: 12px !important;
-color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
-}
 .animetitle[href*="/28069/"]:before{ /*Your Lie In April OVA: Moments*/
 content: "Subbed & English Dub";
 font-size: 12px !important;
@@ -2239,7 +2234,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31722/"]:before{ /*The Seven Deadly Sins: Signs of Holy War*/
-content: "Subbed Only";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
