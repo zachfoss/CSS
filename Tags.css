@@ -66,10 +66,10 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 
     position:fixed;
     right: 0px !important; 
-    width: 289px;
+    width: 309px;
     z-index: 2;
     left:0;
-    top: 533px;
+    top: 523px;
    -moz-transition-property: all;
     -o-transition-property: all;
     -webkit-transition-property: all;
@@ -82,7 +82,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     -o-transition-timing-function: ease-in-out;
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
-    left: calc(((100% - 475px)/2) + 619px) !important;
+    left: calc(((100% - 505px)/2) + 619px) !important;
 
 }
 
