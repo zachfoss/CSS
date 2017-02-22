@@ -2813,7 +2813,7 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/10110/"]:before{ /*Mayo Chiki!*/
 content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
