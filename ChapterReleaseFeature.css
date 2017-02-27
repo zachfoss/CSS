@@ -35,7 +35,7 @@ content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/873/"]:before{ /*Sekirei / Friday*/
-content: "Semi-Monthly Chapter; 1st & 3rd Friday";
+content: "Bi-monthly Chapter; 1st & 3rd Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/23390/"]:before{ /*Attack on Titan*/
@@ -531,15 +531,15 @@ content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/84693/"]:before{ /*Niku Kyu!*/
-content: "Bi-Weekly Chapter; Sunday";
+content: "Bi-weekly Chapter; Sunday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/104271/"]:before{ /*Chi no Wadachi / Blood on the Tracks*/
+content: "Bi-weekly Chapter; 2nd & 4th Friday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/104322/"]:before{ /*Risou no Himo Seikatsu / An Ideal Lazy Life*/
+content: "Monthly Chapter; 4th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
