@@ -531,7 +531,7 @@ content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/84693/"]:before{ /*Niku Kyu!*/
-content: "Bi-Weekly Chapter";
+content: "Bi-Weekly Chapter; Sunday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
