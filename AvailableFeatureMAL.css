@@ -2818,8 +2818,8 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/34321/"]:before{ /*Fate/Grand Order: First Order*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
