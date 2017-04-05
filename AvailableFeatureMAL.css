@@ -2893,6 +2893,21 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+.animetitle[href*="/32407/"]:before{ /*Clockwork Planet*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33834/"]:before{ /*sin Nanatsu no Taizai / The 7 Deadly Sins*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33502/"]:before{ /*SukaSuka, What do you do at the end of the world? Are you busy? Will you save us?*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
 .animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 12px !important;
