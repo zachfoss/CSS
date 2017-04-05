@@ -1929,7 +1929,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/30736/"]:before{ /*Rage of Bahamut: Genesis 2nd Season*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2865,6 +2865,36 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32951/"]:before{ /*Akashic Records of Bastard Magic Instructor*/
 content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34561/"]:before{ /*Re:Creators*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32901/"]:before{ /*Eromanga Sensei*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34494/"]:before{ /*Sakura Quest*/
+content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32887/"]:before{ /*Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34102/"]:before{ /*Sagrada Reset*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
