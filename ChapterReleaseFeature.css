@@ -554,8 +554,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/14369/"]:before{ /*Tsugumomo*/
+content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
