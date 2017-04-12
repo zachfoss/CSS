@@ -2864,7 +2864,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32951/"]:before{ /*Akashic Records of Bastard Magic Instructor*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2894,7 +2894,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32407/"]:before{ /*Clockwork Planet*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2910,6 +2910,36 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33475/"]:before{ /*Armed Girl's Machiavellism*/
 content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32936/"]:before{ /*The Silver Guardian*/
+content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34350/"]:before{ /*Alice & Zoroku*/
+content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
