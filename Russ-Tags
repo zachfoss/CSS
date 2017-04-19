@@ -64,10 +64,10 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 }
 
 
-.table_header:hover:nth-child(6){
+.table_header:hover:nth-child(5){
     display: table-cell!important;
 }
 
-.table_header:nth-child(6) > strong, .table_header:hover:nth-child(6){
+.table_header:nth-child(5) > strong, .table_header:hover:nth-child(5){
     display:none;
 }
