@@ -30,19 +30,19 @@
 }
 
 [id^="tagLinks"] a {
-    font-size:9px;
+    font-size:15px;
     background-color: rgba(0,0,0,0.85);
     border: 1px solid #000000;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
     height: 20px;
-    line-height: 15px;
+    line-height: 20px;
     margin-bottom: 3px;
     margin-right: 3px;
     max-width: 217px;
     overflow: hidden;
-    padding: 0 4px;
+    padding: 2px 5px;
     vertical-align: top;
     white-space: nowrap;
 }
