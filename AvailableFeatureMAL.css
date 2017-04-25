@@ -2859,7 +2859,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/34019/"]:before{ /*Tsugumomo*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2899,12 +2899,12 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33834/"]:before{ /*sin Nanatsu no Taizai / The 7 Deadly Sins*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33502/"]:before{ /*SukaSuka, What do you do at the end of the world? Are you busy? Will you save us?*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2928,18 +2928,18 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/32262/"]:before{ /*Love Tyrant*/
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/32032/"]:before{ /*KADO: The Right Answer*/
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/34822/"]:before{ /*Tsukigakirei / As the Moon, So Beautful. , The Moon is Beautiful*/
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
