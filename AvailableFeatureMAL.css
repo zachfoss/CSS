@@ -1094,12 +1094,12 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28171/"]:before{ /*Food Wars*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/29854/"]:before{ /*Ushio and Tora*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1539,7 +1539,7 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 font-size: 12px !important;
 }
 .animetitle[href*="/11577/"]:before{ /*Steins;Gate Movie*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1844,7 +1844,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31098/"]:before{ /*Ushio & Tora 2nd Season*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1959,7 +1959,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31736/"]:before{ /*Valkyrie Drive: Mermaid Specials*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2464,7 +2464,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32281/"]:before{ /*Your Name*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2509,7 +2509,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32083/"]:before{ /*Luck & Logic*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2940,6 +2940,176 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/34822/"]:before{ /*Tsukigakirei / As the Moon, So Beautful. , The Moon is Beautiful*/
 content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/10793/"]:before{ /*Guilty Crown*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/22135/"]:before{ /*Ping Pong The Animation*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34662/"]:before{ /*Fate/Apocrypha*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/16742/"]:before{ /*WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/11111/"]:before{ /*Another*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/14741/"]:before{ /*Love, Chunibyo & Other Delusions!*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/23311/"]:before{ /*GARO THE ANIMATION*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34134/"]:before{ /*One Punch Man Season 2*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33926/"]:before{ /*The King's Avatar*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/889/"]:before{ /*Black Lagoon*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32189/"]:before{ /*Danganronpa 3: The End of Hope's Peak High School - Future Arc*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34451/"]:before{ /*Blood Blockade Battlefront & Beyond*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34577/"]:before{ /*The Seven Deadly Sins Season 2*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/16524/"]:before{ /*Gargantia on the Verdurous Planet*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/19775/"]:before{ /*Knights of Sidonia*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33028/"]:before{ /*Danganronpa 3: The End of Hope's Peak High School - Despair Arc*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/245/"]:before{ /*Great Teacher Onizuka*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/11021/"]:before{ /*Muv-Luv Alternative: Total Eclipse*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/1559/"]:before{ /*KenIchi: The Mightiest Disciple*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/4975/"]:before{ /*Chaos;Head*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/23289/"]:before{ /*Monthly Girls' Nozaki-kun*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/20057/"]:before{ /*Space Dandy*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33047/"]:before{ /*Fate/Extra Last Encore*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/2001/"]:before{ /*Gurren Lagann*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/18153/"]:before{ /*Beyond the Boundary*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/11633/"]:before{ /*Blood Lad*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/2251/"]:before{ /*Baccano!*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33929/"]:before{ /*My Hero Academia: Jump Festa 2016 Special*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/30868/"]:before{ /*Ajin: Demi-Human - Compel*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/34830/"]:before{ /*Dance with Devils -Fortuna-*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/32086/"]:before{ /*Blame! Movie*/
+content: "Unavailable";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/23775/"]:before{ /*Attack on Titan: Crimson Bow and Arrow*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
