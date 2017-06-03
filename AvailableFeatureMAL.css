@@ -3123,8 +3123,8 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/17643/"]:before{ /*Little Busters OVA: I Will Protect the World of Saitou!*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
