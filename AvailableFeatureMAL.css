@@ -3168,12 +3168,12 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/8888/"]:before{ /*Code Geass: Akito the Exiled 1 */
 content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/15197/"]:before{ /*Code Geass: Akito the Exiled 2*/
 content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
