@@ -3178,18 +3178,18 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
+.animetitle[href*="/27601/"]:before{ /*Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars*/
 content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/21797/"]:before{ /*Love, Chunibyo & Other Delusions!: Heart Throb Lite Shorts*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/23237/"]:before{ /*Love, Chunibyo & Other Delusions: Heart Throb Specials*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
