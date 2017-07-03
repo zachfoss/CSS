@@ -558,8 +558,8 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/21860/"]:before{ /*Mayo Chiki!*/
+content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
