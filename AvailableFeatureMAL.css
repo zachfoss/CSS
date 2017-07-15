@@ -834,12 +834,12 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/23233/"]:before{ /*The Testament of Sister New Devil*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/29027/"]:before{ /*The Testament of Sister New Devil OVA*/
-content: "Subbed Only";
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
