@@ -3258,6 +3258,41 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+.animetitle[href*="/35248/"]:before{ /*18if*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/35507/"]:before{ /*Classroom of the Elite*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
 .animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 12px !important;
