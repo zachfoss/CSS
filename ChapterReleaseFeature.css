@@ -578,8 +578,8 @@ font-size: 10.5px !important;
 content: "Bi-weekly Chapter; 1st & 3rd Wednesday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/105038/"]:before{ /*Hinowa ga CRUSH!*/
+content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
