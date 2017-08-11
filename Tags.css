@@ -103,6 +103,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     vertical-align: top;
     white-space: nowrap;
 }
+/*
 [id^="tagLinks"] a:first-child {
     background-color: rgba(97, 25, 39, 0.85);
     border: 1px solid #611927;
@@ -110,7 +111,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 [id^="tagLinks"] a:last-child {
     background-color: rgba(97, 25, 39, 0.85);
     border: 1px solid #611927;
-}
+}*/
 
 table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hide {
     margin-right: 0;
