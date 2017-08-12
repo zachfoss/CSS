@@ -113,6 +113,12 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     border: 1px solid #611927;
 }*/
 
+[id^="tagLinks"] a[href*="Lɪᴄ."] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+
+
 table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hide {
     margin-right: 0;
     opacity: 1;
