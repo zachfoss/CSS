@@ -65,10 +65,6 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     margin-right: 0;
     opacity: 1;
 }
-.td1:last-child, .td2:last-child, .table_header:last-child{
-    width: 1px;
-}
-
 
 .table_header:hover:nth-child(4){
     display: table-cell!important;
