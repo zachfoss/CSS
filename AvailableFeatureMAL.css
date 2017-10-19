@@ -3378,13 +3378,13 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/34480/"]:before{ /*Food Wars! The Second Plate OVA*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/31327/"]:before{ /*Food Wars! OVA*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
