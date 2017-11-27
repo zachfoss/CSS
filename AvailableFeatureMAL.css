@@ -8,8 +8,8 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/35338/"]:before{ /*Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
