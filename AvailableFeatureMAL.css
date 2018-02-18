@@ -9,7 +9,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/35849/"]:before{ /*Darling in the FranXX */
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -38,23 +38,23 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/37349/"]:before{ /*Goblin Slayer*/
+content: "Unavailable";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/37345/"]:before{ /*Plunderer*/
+content: "Unavailable";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/37348/"]:before{ /*Is It Wrong to Try to Pick Up Girls in a Dungeon? Movie: Arrow of the Orion*/
+content: "Unavailable";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/37347/"]:before{ /*Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 2*/
+content: "Unavailable";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -119,7 +119,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/35073/"]:before{ /*Overlord Season 2*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3240,7 +3240,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33047/"]:before{ /*Fate/Extra Last Encore*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
