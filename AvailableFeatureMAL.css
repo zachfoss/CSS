@@ -63,13 +63,13 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/10465/"]:before{ /*Manyuu Hikenchou*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/10845/"]:before{ /*Manyuu Hikenchou Specials*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3580,6 +3580,46 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/36308/"]:before{ /*Blade Runner: Black Out 2022*/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
