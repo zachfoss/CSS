@@ -190,7 +190,7 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 /*===========================================================*/
 .animetitle[href*="/25397/"]:before{ /*Absolute Duo*/
-content: "Subbed & English Dub \f000";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1130,7 +1130,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28677/"]:before{ /*Yamada-kun and the Seven Witches*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -1255,7 +1255,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28819/"]:before{ /*My Wife is the Student Council President*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub (TBA)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2410,7 +2410,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31845/"]:before{ /*Masou Gakuen HxH*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub (TBA)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2465,12 +2465,12 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/13271/"]:before{ /*Hunter x Hunter Movie: Phantom Rouge*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/32900/"]:before{ /*The Irregular at Magic High School The Movie*/
-content: "Unavailable";
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2575,7 +2575,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31733/"]:before{ /*Pretty Guardian Sailor Moon Crystal Season III*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2585,7 +2585,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28623/"]:before{ /*Kabaneri of the Iron Fortress*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2640,7 +2640,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/28851/"]:before{ /*A Silent Voice*/
-content: "Subbed & English Dub (TBA)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -2665,7 +2665,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/33674/"]:before{ /*No Game No Life Movie*/
-content: "Unavailable";
+content: "Subbed Only & English Dub (TBA)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3005,7 +3005,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/34321/"]:before{ /*Fate/Grand Order: First Order*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3040,7 +3040,7 @@ font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/31629/"]:before{ /*Granblue Fantasy The Animation*/
-content: "Subbed & English Dub (Soon)";
+content: "Subbed & English Dub (7 Eps.)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3289,8 +3289,8 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="/32801/"]:before{ /*Dungeon/DanMachi OVA*/
-content: "Subbed & English Dub (TBA)";
+.animetitle[href*="/32801/"]:before{ /*IS IT WRONG TO EXPECT A HOT SPRING IN A DUNGEON? OVA*/
+content: "Subbed & English Dub (Soon)";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3311,11 +3311,6 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
 .animetitle[href*="/17643/"]:before{ /*Little Busters OVA: I Will Protect the World of Saitou!*/
 content: "Subbed Only";
-font-size: 12px !important;
-color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
-}
-.animetitle[href*="/34572/"]:before{ /*Black Clover TV*/
-content: "Unavailable";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
@@ -3599,8 +3594,8 @@ content: "Subbed & English Dub";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
-.animetitle[href*="//"]:before{ /**/
-content: "Subbed & English Dub";
+.animetitle[href*="/9624/"]:before{ /*A Thirty-Year Old's Health and Physical Education*/
+content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
