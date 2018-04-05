@@ -3609,6 +3609,46 @@ content: "Subbed Only";
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 }
+.animetitle[href*="/36563/"]:before{ /*Megalo Box*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/36949/"]:before{ /*Food Wars! The Third Plate 2nd cour, */
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/30484/"]:before{ /*Steins;Gate 0*/
+content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/36475/"]:before{ /*Sword Art Online Alternative: Gun Gale Online*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/36800/"]:before{ /*Amanchu! Advance*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/36652/"]:before{ /*Piano no Mori*/
+content: "Subbed Only";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="/33889/"]:before{ /*Dances with the Dragons*/
+content: "Subbed & English Dub (Soon)";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+.animetitle[href*="//"]:before{ /**/
+content: "Subbed & English Dub";
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
 .animetitle[href*="//"]:before{ /**/
 content: "Subbed & English Dub";
 font-size: 12px !important;
