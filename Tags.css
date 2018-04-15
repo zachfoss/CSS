@@ -82,10 +82,11 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     -moz-transition-timing-function: ease-in-out;
     -o-transition-timing-function: ease-in-out;
     -webkit-transition-timing-function: ease-in-out;
-    transition-timing-function: ease-in-out; */
+    transition-timing-function: ease-in-out; 
+
 -moz-transition: .1s ease;
 -webkit-transition: .1s ease;
--o-transition: .2s ease;
+-o-transition: .2s ease;*/
     left: calc(((100% - 505px)/2) + 619px) !important;
 
 }
