@@ -1,10 +1,12 @@
 .animetitle[href*="/25132/"]:after {background-image:url(http://i.imgur.com/7SgokZj.png);}
-.animetitle[href*="/86337/"]:after {background-image:url(http://i.imgur.com/XQkR79s.jpg);} /*Black Clover*/
+/*.animetitle[href*="/86337/"]:after {background-image:url(http://i.imgur.com/XQkR79s.jpg);} Black Clover*/
+               .animetitle[href*="/86337/"]:after {background-image:url(https://i.imgur.com/2mMTUbu.jpg);} /*Black Clover*/
 .animetitle[href*="/26/"]:after {background-image:url(http://i.imgur.com/QbSgGtA.png);}
 .animetitle[href*="/44485/"]:after {background-image:url(http://i.imgur.com/n0yGXLf.png);}
 .animetitle[href*="/35573/"]:after {background-image:url(http://i.imgur.com/hLFNYnn.jpg);}
 .animetitle[href*="/873/"]:after {background-image:url(http://i.imgur.com/zLSn0FZ.jpg);}
-.animetitle[href*="/23390/"]:after {background-image:url(http://i.imgur.com/PPihCyO.jpg);}
+/*.animetitle[href*="/23390/"]:after {background-image:url(http://i.imgur.com/PPihCyO.jpg);} Attack On Titan*/
+           .animetitle[href*="/23390/"]:after {background-image:url(https://i.imgur.com/t88LwkY.jpg);} /*Attack On Titan*/
 .animetitle[href*="/33327/"]:after {background-image:url(http://i.imgur.com/EgKTFiu.png);} /*Tokyo Ghoul*/
 .animetitle[href*="/8144/"]:after {background-image:url(http://i.imgur.com/X7PoSyH.jpg);}
 .animetitle[href*="/19007/"]:after {background-image:url(http://i.imgur.com/YXtQlvi.png);}
@@ -35,7 +37,8 @@
 .animetitle[href*="/91037/"]:after {background-image:url(http://i.imgur.com/mcSLBLv.jpg);}
 .animetitle[href*="/81117/"]:after {background-image:url(http://i.imgur.com/jypMrGz.jpg);} /*Tokyo Ghoul RE*/
 .animetitle[href*="/93180/"]:after {background-image:url(http://i.imgur.com/8qOj8oQ.jpg);}
-.animetitle[href*="/75989/"]:after {background-image:url(http://i.imgur.com/bVb0kZd.jpg);} /*My Hero Academia*/
+/*.animetitle[href*="/75989/"]:after {background-image:url(http://i.imgur.com/bVb0kZd.jpg);} My Hero Academia*/
+                   .animetitle[href*="/75989/"]:after {background-image:url(https://i.imgur.com/7zN4bUz.jpg);} /*My Hero Academia*/
 .animetitle[href*="/44347/"]:after {background-image:url(http://i.imgur.com/hxTdPhK.jpg);} /*One Punch Man*/
 /*.animetitle[href*="/44347/"]:after {background-image:url(http://i.imgur.com/aL7r19Z.jpg);} One Punch Man*/
 .animetitle[href*="/78943/"]:after {background-image:url(http://i.imgur.com/XiK4DzY.jpg);}
