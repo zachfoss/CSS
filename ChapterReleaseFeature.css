@@ -582,8 +582,8 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 25th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/61189/"]:before{ /*The Ancient Magus' Bride*/
+content: "Monthly Chapter; 30th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
