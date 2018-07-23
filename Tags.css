@@ -135,3 +135,700 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 .table_header:nth-child(6) > strong, .table_header:hover:nth-child(6){
     display:none;
 }
+
+/*STARS*/
+.animetitle[href*="anime/5681/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/30276/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/28701/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/23283/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/23273/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+background-image: url(http://i.imgur.com/8lvddBJ.png);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 4px !important;
+padding-right: 22px !important;
+color: !important;
+padding-top: 3px;
+}
+.animetitle[href*="anime/22535/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/18679/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/16067/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/12355/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/11061/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/5630/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/5114/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/4181/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+background-image: url(http://i.imgur.com/8lvddBJ.png);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 4px !important;
+padding-right: 22px !important;
+color: !important;
+padding-top: 3px;
+}
+.animetitle[href*="anime/2904/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+background-image: url(http://i.imgur.com/8lvddBJ.png);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 4px !important;
+padding-right: 22px !important;
+color: !important;
+padding-top: 3px;
+}
+.animetitle[href*="anime/2025/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/1535/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/935/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/853/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/813/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/223/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/199/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/150/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/16498/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/28171/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/23755/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/22297/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/22789/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/20507/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/30240/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/28907/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/30503/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/22319/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/31043/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/18115/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/30654/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+background-image: url(http://i.imgur.com/8lvddBJ.png);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 4px !important;
+padding-right: 22px !important;
+color: !important;
+padding-top: 3px;
+}
+.animetitle[href*="anime/31240/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+} 
+
+/*TAGS COLOR CODE*/
+[id^="tagLinks"] a[href*="Summer"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Fall"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Winter"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Spring"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="20"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="19"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Adaptation"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Original"] {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Key"] {
+    background-color: rgba(96, 25, 97, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Gen+Urobuchi"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Makoto+Shinkai"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Lynn+Okamoto"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Naotaka+Hayashi"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Hiromu+Arakawa"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Mamoru+Hosoda"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Jun+Maeda"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Satou"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Ichiro+Okouchi"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Kenji+Kamiyama"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Ichiro+Okouchi"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Kenji+Kamiyama"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Mari+Okada"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="ONE"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a[href*="Project+Itoh"] {
+    background-color: rgba(122, 21, 21, 0.85);
+    border: 1px solid #611927;
+} 
+[id^="tagLinks"] a:nth-last-child(2) {
+    background-color: rgba(130,  66, 3, 1);
+    border: 1px solid #ae5703;
+}
+[id^="tagLinks"] a:nth-last-child(3) {
+    background-color: rgba(130,  66, 3, 1);
+    border: 1px solid #ae5703;
+}
+[id^="tagLinks"] a:first-child {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+}
+[id^="tagLinks"] a:last-child {
+    background-color: rgba(97, 25, 39, 0.85);
+    border: 1px solid #611927;
+}
+[id^="tagLinks"] a[href*="Unlicensed"] {
+    background-color: rgba(41,  81, 4, 1);
+    border: 1px solid #6fbf03;
+} 
+[id^="tagLinks"] a[href*="L%C9%AA%E1%B4%84."] {
+    background-color: rgba(41,  81, 4, 1);
+    border: 1px solid #6fbf03;
+} 
+
+[id^="tagLinks"] a[href*="+L%C9%AA%E1%B4%84."] + a:nth-last-child(4) {
+    background-color: rgba(130,  66, 3, 1);
+    border: 1px solid #ae5703;
+} 
+
+
+/*Headers Symbols*/
+
+.header_ptw .header_title:before {
+    vertical-align: top;
+    margin-left: -27px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 27px;
+    content: "\E03B";
+}
+.header_cw .header_title:before {
+    vertical-align: top;
+    margin-left: -27px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 27px;
+    content: "\E037";
+}
+.header_completed .header_title:before {
+    vertical-align: top;
+    margin-left: -27px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 27px;
+    content: "\E876";
+}
+.header_onhold .header_title:before {
+    vertical-align: top;
+    margin-left: -24px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 24px;
+    content: "\E034";
+}
+.header_dropped .header_title:before {
+    vertical-align: top;
+    margin-left: -27px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 24px;
+    content: "\E872";
+}
+
+.status_not_selected:nth-of-type(1) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E037";
+}
+.status_not_selected:nth-of-type(2) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E876";
+}
+.status_not_selected:nth-of-type(3) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E034";
+}
+.status_not_selected:nth-of-type(4) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E872";
+}
+.status_not_selected:nth-of-type(5) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E03B";
+}
+.status_not_selected:nth-of-type(6) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    font-size: 16px;
+    content: "\E8EF";
+}
+
+
+.status_selected:nth-of-type(1) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E037";
+    font-size: 21px;
+}.status_selected:nth-of-type(1) > a
+{
+    margin-left: 0px;
+    font-size: 11.5px;
+}
+.status_selected:nth-of-type(2) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E876";
+    font-size: 21px;
+}.status_selected:nth-of-type(2) > a
+{
+    margin-left: 0px;
+    margin-right: 103px;
+    font-size: 12px;
+}
+.status_selected:nth-of-type(3) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E034";
+    font-size: 21px;
+}
+.status_selected:nth-of-type(4) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E872";
+    font-size: 21px;
+}.status_selected:nth-of-type(4) > a
+{
+    margin-left: 0px;
+    margin-right: 75px;
+    font-size: 11.5px;
+}
+.status_selected:nth-of-type(5) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E03B";
+    font-size: 21px;
+}
+.status_selected:nth-of-type(6) > a:before
+{
+    vertical-align: top;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    font-family: Material Icons;
+    content: "\E8EF";
+    font-size: 21px;
+}
+
+[href*="Subbed+Only"] {
+        color: #fff7b6!important; }
+[href*="English+Dub"] {
+        color: #d6ffb6 !important; }
+[href*="English+Dub+%28TBA%29"] {
+            color: #ffb6b6 !important; }
+[href*="English+Dub+%28Soon%29"] {
+        color: #b6fff6 !important }
+[href*="Unavailable"] {
+        color: #e6e3e3 !important; }
+[href*="Raw"] {
+        color: #e6e3e3 !important; }
+[href*="%28Soon%29+Subbed"] {
+        color: #b6fff6 !important }
+
+[id^="tagLinks"] a[href*="Subbed+Only"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    height:20px;
+    right: 100px;
+    position: fixed;
+    left: calc(((100% - 426px)/2) + 717px)!important;
+    top: calc((100% - 0px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:90px!important;
+    font-size: 9.3pt !important;
+    height: 15px;
+    font-size: 12px !important;
+    color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+}
+[id^="tagLinks"] a[href*="Subbed"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    position: fixed;
+    left: calc(((100% - 560px)/2) + 717px);
+    top: calc((100% - 200px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:50px;
+    font-size: 9.3pt !important;
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+} 
+[id^="tagLinks"] a[href*="English+Dub"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    height:20px;
+    right: 100px;
+    position: fixed;
+    left: calc(((100% - 428px)/2) + 717px);
+    top: calc((100% - 0px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:90px;
+    font-size: 9.3pt !important;
+    height: 15px;
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+} 
+[id^="tagLinks"] a[href*="Unavailable"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    position: fixed;
+    left: calc(((100% - 500px)/2) + 717px);
+    top: calc((100% - 200px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:90px;
+    font-size: 9.3pt !important;
+    font-size: 12px !important;
+    color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+} 
+[id^="tagLinks"] a[href*="Raw"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    position: fixed;
+    left: calc(((100% - 500px)/2) + 717px);
+    top: calc((100% - 200px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:90px;
+    font-size: 9.3pt !important;
+    font-size: 12px !important;
+    color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+} 
+
+[id^="tagLinks"] a[href*="%28Soon%29+Subbed"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    height:10px;
+    right: 100px;
+    position: fixed;
+    left: calc(((100% - 664px)/2) + 717px)!important;
+    top: calc((100% - 0px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:105px!important;
+    font-size: 9.3pt !important;
+    height: 15px;
+    font-size: 12px !important;
+    color: #FFFFFF; text-shadow: 1px 1px 3px #000000; }
+
+[id^="tagLinks"] a[href*="English+Dub+%28TBA%29"] {
+    width:120px;
+    left: calc(((100% - 421px)/2) + 717px); }
+[id^="tagLinks"] a[href*="English+Dub+%28Soon%29"] {
+    width:130px;
+    left: calc(((100% - 421px)/2) + 717px); }
+
+[id^="tagLinks"] a[href*="%2F"] {
+    background-color: rgba(51,53,60,0);
+    border: 1px solid rgba(126,126,126,0);
+    height:20px;
+    right: 100px;
+    position: fixed;
+    left: calc(((100% - 489px)/2) + 717px);
+    top: calc((100% - 200px)/2);
+    /*top: 143px;*/
+    top: 86px;
+    width:50px;
+    font-size: 9.3pt !important;
+  pointer-events: none;
+font-size: 12px !important;
+color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
+} 
+/*#tagLinks32827 > a:nth-of-type(2) { 
+    color: #c2f5ba !important;
+    text-shadow: 0 1px rgba(255, 255, 255, 0.15); } */ 
