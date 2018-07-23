@@ -94,7 +94,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 [id^="tagLinks"] a {
     font-size:9px;
     background-color: rgba(0,0,0,0.85);
-    border: 1px solid #000000;
+    border: 1px solid #363533;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
