@@ -255,27 +255,27 @@ content:'\f005';
 /*TAGS COLOR CODE*/
 [id^="tagLinks"] a[href*="Summer"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Fall"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Winter"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Spring"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="20"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="19"] {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Adaptation"] {
     background-color: rgba(97, 25, 39, 0.85);
@@ -351,11 +351,11 @@ content:'\f005';
 } 
 [id^="tagLinks"] a:nth-last-child(2) {
     background-color: rgba(130,  66, 3, 1);
-    border: 1px solid #ae5703;
+    border: 1px solid #ca6c12;
 }
 [id^="tagLinks"] a:nth-last-child(3) {
     background-color: rgba(130,  66, 3, 1);
-    border: 1px solid #ae5703;
+    border: 1px solid #ca6c12; 
 }
 [id^="tagLinks"] a:first-child {
     background-color: rgba(97, 25, 39, 0.85);
@@ -363,7 +363,7 @@ content:'\f005';
 }
 [id^="tagLinks"] a:last-child {
     background-color: rgba(97, 25, 39, 0.85);
-    border: 1px solid #611927;
+    border: 1px solid #9e253e;
 }
 [id^="tagLinks"] a[href*="Unlicensed"] {
     background-color: rgba(41,  81, 4, 1);
