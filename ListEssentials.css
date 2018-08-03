@@ -1,4 +1,58 @@
 /*STARS*/
+.animetitle[href*="anime/9253/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/9756/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/13601/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/14513/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/25777/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/25537/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/34599/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/33486/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/32281/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
 .animetitle[href*="anime/5681/"] :before{
 font-family: FontAwesome;
 margin-right:6px;
