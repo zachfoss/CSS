@@ -93,7 +93,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 
 [id^="tagLinks"] a {
     font-size:9px;
-    background-color: rgba(0,0,0,0.85);
+    background-color: rgba(0,0,0,0.95);
     border: 1px solid #363533;
     border-radius: 5px;
     color: #fff;
@@ -107,7 +107,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
     padding: 0 4px;
     vertical-align: top;
     white-space: nowrap;
-}
+} 
 /*
 [id^="tagLinks"] a:first-child {
     background-color: rgba(97, 25, 39, 0.85);
