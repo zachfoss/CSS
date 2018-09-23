@@ -308,99 +308,99 @@ content:'\f005';
 
 /*TAGS COLOR CODE*/
 [id^="tagLinks"] a[href*="Summer"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Fall"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Winter"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Spring"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="20"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="19"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 } 
 [id^="tagLinks"] a[href*="Adaptation"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Original"] {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Key"] {
-    background-color: rgba(96, 25, 97, 0.85);
+    background-color: rgba(96, 25, 97, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Gen+Urobuchi"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Makoto+Shinkai"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Lynn+Okamoto"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Naotaka+Hayashi"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Hiromu+Arakawa"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Mamoru+Hosoda"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Jun+Maeda"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Satou"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Ichiro+Okouchi"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Kenji+Kamiyama"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Ichiro+Okouchi"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Kenji+Kamiyama"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Mari+Okada"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="ONE"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a[href*="Project+Itoh"] {
-    background-color: rgba(122, 21, 21, 0.85);
+    background-color: rgba(122, 21, 21, 0.95);
     border: 1px solid #611927;
 } 
 [id^="tagLinks"] a:nth-last-child(2) {
@@ -412,11 +412,11 @@ content:'\f005';
     border: 1px solid #ca6c12; 
 }
 [id^="tagLinks"] a:first-child {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #611927;
 }
 [id^="tagLinks"] a:last-child {
-    background-color: rgba(97, 25, 39, 0.85);
+    background-color: rgba(97, 25, 39, 0.95);
     border: 1px solid #9e253e;
 }
 [id^="tagLinks"] a[href*="Unlicensed"] {
