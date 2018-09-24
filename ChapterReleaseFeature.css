@@ -594,8 +594,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/83285/"]:before{ /*Hisoka Origin Story*/
+content: "One-Shot";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
