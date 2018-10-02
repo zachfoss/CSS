@@ -1,5 +1,6 @@
 .animetitle[href*="/25132/"]:after {background-image:url(http://i.imgur.com/7SgokZj.png);}
-.animetitle[href*="/86337/"]:after {background-image:url(http://i.imgur.com/XQkR79s.jpg);} /*Black Clover*/
+/*.animetitle[href*="/86337/"]:after {background-image:url(http://i.imgur.com/XQkR79s.jpg);} Black Clover*/
+.animetitle[href*="/86337/"]:after {background-image:url(https://i.imgur.com/hd4zYQ5.jpg);} /*Black Clover 2*/
 .animetitle[href*="/26/"]:after {background-image:url(http://i.imgur.com/QbSgGtA.png);}
 .animetitle[href*="/44485/"]:after {background-image:url(http://i.imgur.com/n0yGXLf.png);}
 .animetitle[href*="/35573/"]:after {background-image:url(http://i.imgur.com/hLFNYnn.jpg);}
