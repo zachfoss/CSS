@@ -1,4 +1,25 @@
 /*STARS*/
+.animetitle[href*="anime/15335/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+} 
+.animetitle[href*="anime/28977/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+background-image: url(http://i.imgur.com/8lvddBJ.png);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 4px !important;
+padding-right: 22px !important;
+color: !important;
+padding-top: 3px;
+} 
 .animetitle[href*="anime/9253/"] :before{
 font-family: FontAwesome;
 margin-right:6px;
