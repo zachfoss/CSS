@@ -448,6 +448,10 @@ content:'\f005';
     background-color: rgba(41,  81, 4, 1);
     border: 1px solid #6fbf03;
 } 
+[id^="tagLinks"] a[href*="Amazon+L%C9%AA%E1%B4%84."] {
+    background-color: rgba(25,69,97,0.95);
+    border: 1px solid #24698b;
+} 
 
 [id^="tagLinks"] a[href*="+L%C9%AA%E1%B4%84."] + a:nth-last-child(4) {
     background-color: rgba(130,  66, 3, 1);
