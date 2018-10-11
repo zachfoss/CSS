@@ -66,7 +66,7 @@ table:hover .animetitle::after, table:hover [id^="tagLinks"], table:hover + .hid
 
     position:fixed;
     right: 0px !important; 
-    width: 309px;
+    width: 310px;
     z-index: 2;
     left:0;
     top: 523px;
