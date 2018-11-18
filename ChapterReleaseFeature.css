@@ -598,8 +598,8 @@ font-size: 10.5px !important;
 content: "One-Shot";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/114825/"]:before{ /*Hitman*/
+content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
