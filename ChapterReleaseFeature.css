@@ -602,8 +602,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Wednesday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/111216/"]:before{ /*Demon Tune*/
+content: "Monthly Chapter; 4th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
