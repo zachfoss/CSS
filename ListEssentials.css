@@ -792,10 +792,7 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 
 /*CRUNCHYROLL LICENCES*/
 
-[id^="tagLinks32686"] a[href*="Crunchyroll+L%C9%AA%E1%B4%84."] {
-    background-color: rgba(41,  81, 4, 1);
-    border: 1px solid #f47521;
-}  [id^="tagLinks33433"] a[href*="Crunchyroll+L%C9%AA%E1%B4%84."] {
+[id^="tagLinks33433"] a[href*="Crunchyroll+L%C9%AA%E1%B4%84."] {
     background-color: rgba(41,  81, 4, 1);
     border: 1px solid #f47521;
 }  [id^="tagLinks35507"] a[href*="Crunchyroll+L%C9%AA%E1%B4%84."] {
