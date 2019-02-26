@@ -610,8 +610,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/87609/"]:before{ /*That Time I Got Reincarnated as a Slime*/
+content: "Monthly Chapter; 26th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
