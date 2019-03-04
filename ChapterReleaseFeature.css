@@ -99,7 +99,7 @@ content: "Monthly Chapter; Around 15-30th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/2/"]:before{ /*Berserk (JA: Bi-weekly Chapter; 2nd & 4th Friday = OLD,)*/
-content: "Bi-weekly Chapter; 2nd & 4th Friday";
+content: "Monthly Chapter; 4th Friday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/747/"]:before{ /*Blood+*/
