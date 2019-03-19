@@ -356,6 +356,31 @@ margin-right:6px;
 color:gold;
 content:'\f005';
 } 
+.animetitle[href*="anime/37510/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/20899/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+}
+.animetitle[href*="anime/26055/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+} 
+.animetitle[href*="anime/36946/"] :before{
+font-family: FontAwesome;
+margin-right:6px;
+color:gold;
+content:'\f005';
+} 
+/*ENDS HERE*/
 
 /*TAGS COLOR CODE*/
 [id^="tagLinks"] a[href*="Summer"] {
