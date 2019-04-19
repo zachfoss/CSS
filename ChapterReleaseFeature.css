@@ -7,7 +7,7 @@ content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/89734/"]:before{ /*Dragon Ball Super*/
-content: "Monthly Chapter; 21st";
+content: "Monthly Chapter; 20th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="/669/"]:before{ /*Highschool of the Dead*/
