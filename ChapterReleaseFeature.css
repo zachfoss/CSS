@@ -630,8 +630,8 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 18th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/116880/"]:before{ /*Mato Seihei no Slave*/
+content: "Weekly Chapter; Saturday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
