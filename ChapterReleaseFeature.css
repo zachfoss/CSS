@@ -642,8 +642,8 @@ font-size: 10.5px !important;
 content: "Bi-monthly Chapter; 12th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="//"]:before{ /*The Wolf Won't Sleep*/
+content: "Monthly Chapter; Irregular Frequency";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
