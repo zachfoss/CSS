@@ -1012,22 +1012,22 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
     background-color: rgba(41,  81, 4, 1);
     border: 1px solid #6fbf03;
 }
-[id^="tagLinks30363"] a {
+#tagLinks30363 a {
     font-size:8.5px;
 } 
-[id^="tagLinks23233"] a {
+#tagLinks23233 a {
     font-size:8.5px;
 }
-[id^="tagLinks35972"] a[href*="+L%C9%AA%E1%B4%84."] + a:nth-last-child(4) {
+#tagLinks35972 a[href*="+L%C9%AA%E1%B4%84."] + a:nth-last-child(4) {
     background-color: rgba(130,  66, 3, 1);
     border: 1px solid #ca6c12;
 }
-[id^="tagLinks35972"] a {
+#tagLinks35972 a {
     font-size:8.7px;
 }
-[id^="tagLinks32105"] a {
+#tagLinks32105 a {
     font-size:7.8px;
 } 
-[id^="tagLinks79"] a {
+#tagLinks79 a {
     font-size:7.7px;
 }
