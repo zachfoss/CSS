@@ -654,8 +654,8 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 9th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/104234/"]:before{ /*The Irregular at Magic High School: Summer Vacation*/
+content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
