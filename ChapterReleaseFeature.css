@@ -658,16 +658,16 @@ font-size: 10.5px !important;
 content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/115017/"]:before{ /*The Irregular at Magic High School: Presidential Election Arc*/
+content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/60977/"]:before{ /*The Irregular at Magic High School: Reminiscence Arc*/
+content: "Monthly Chapter; 27th";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/93234/"]:before{ /*The Irregular At Magic High School: Visitor Arc*/
+content: "Monthly Chapter; 18th";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
