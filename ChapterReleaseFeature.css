@@ -674,7 +674,7 @@ font-size: 10.5px !important;
 content: "Light Novel Publication";
 font-size: 10.5px !important;
 }
-.animetitle[href*="/121083/"]:before{ /**/
+.animetitle[href*="//"]:before{ /**/
 content: " Chapter";
 font-size: 10.5px !important;
 }
