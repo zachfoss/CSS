@@ -674,8 +674,8 @@ font-size: 10.5px !important;
 content: "Light Novel Publication";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/4632/"]:before{ /*Goodnight Punpun*/
+content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
