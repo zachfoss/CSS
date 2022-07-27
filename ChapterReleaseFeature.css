@@ -678,8 +678,8 @@ font-size: 10.5px !important;
 content: "Weekly Chapter; Monday";
 font-size: 10.5px !important;
 }
-.animetitle[href*="//"]:before{ /**/
-content: " Chapter";
+.animetitle[href*="/130832/"]:before{ /*Your Throne*/
+content: "Weekly Chapter; Saturday";
 font-size: 10.5px !important;
 }
 .animetitle[href*="//"]:before{ /**/
