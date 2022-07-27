@@ -940,6 +940,23 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 font-size: 12px !important;
 color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 } 
+/*DVD/Bluray Collection*/
+[id^="tagLinks"] a[href*="DVD%2FBluray+Collection"] {
+    background-color: rgba(0,57,255,0);
+    border: 1px solid rgba(126,126,126,0);
+    height:20px;
+    right: 100px;
+    position: fixed;
+    left: calc(((100% - 677px)/2) + 717px);
+    top: calc((100% - 200px)/2);
+    /*top: 143px;*/
+    top: 498px;
+    width:155px;
+    font-size: 9.3pt !important;
+  pointer-events: none;
+font-size: 12px !important;
+color: rgba(0,0,0,0.79) !important; text-shadow: 1px 1px 3px rgba(0,0,0,0) !important;
+}
 /*#tagLinks32827 > a:nth-of-type(2) { 
     color: #c2f5ba !important;
     text-shadow: 0 1px rgba(255, 255, 255, 0.15); } */ 
