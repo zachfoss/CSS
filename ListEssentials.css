@@ -511,6 +511,54 @@ color:gold;
 content:'⭐';
 font-size: 12px;
 }
+.animetitle[href*="anime/51009/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/39535/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/40748/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/45576/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/48561/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/50172/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/51019/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
+.animetitle[href*="anime/51535/"] :before{
+margin-right:1px;
+color:gold;
+content:'⭐';
+font-size: 12px;
+}
 /*ENDS HERE*/
 
 /*TAGS COLOR CODE*/
