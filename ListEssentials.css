@@ -971,6 +971,11 @@ color: #FFFFFF; text-shadow: 1px 1px 3px #000000;
 [id^="tagLinks"] a[href*="English+Dub+%28Soon%29"] {
     width:130px;
     left: calc(((100% - 421px)/2) + 717px); }
+[id^="tagLinks"] a[href*="English+Dub+%28Partial%29"] {
+    width:140px;
+    left: calc(((100% - 421px)/2) + 717px); 
+    line-height: 16px;
+    font-size: 11.4px !important; }
 
 [id^="tagLinks"] a[href*="%2F"] {
     background-color: rgba(51,53,60,0);
